@@ -70,110 +70,110 @@
 			<tarifPlans>
 				<tarifPlan id="0">
 					<phoneNumbers>
-						<phoneNumber pin="320" addInfo="По России бесплатно (МТС, Билайн, Мегафон, Tele2, Yota, Мотив)" prior="1" cntr="ru">900</phoneNumber>
-						<phoneNumber pin="320" addInfo="Из-за границы по тарифу оператора" prior="2" cntr="other">+7(495) 500-55-50</phoneNumber>
+						<phoneNumber pin="320" addInfo="РџРѕ Р РѕСЃСЃРёРё Р±РµСЃРїР»Р°С‚РЅРѕ (РњРўРЎ, Р‘РёР»Р°Р№РЅ, РњРµРіР°С„РѕРЅ, Tele2, Yota, РњРѕС‚РёРІ)" prior="1" cntr="ru">900</phoneNumber>
+						<phoneNumber pin="320" addInfo="РР·-Р·Р° РіСЂР°РЅРёС†С‹ РїРѕ С‚Р°СЂРёС„Сѓ РѕРїРµСЂР°С‚РѕСЂР°" prior="2" cntr="other">+7(495) 500-55-50</phoneNumber>
 					</phoneNumbers>
 				</tarifPlan>
 				<tarifPlan id="1">
 					<phoneNumbers>
-						<phoneNumber pin="0" addInfo="По России бесплатно" prior="1" cntr="ru">8-800-555-02-55</phoneNumber>
-						<phoneNumber pin="0" addInfo="Из-за границы по тарифу оператора" prior="2" cntr="other" >+7(495) 669-06-38</phoneNumber>
+						<phoneNumber pin="0" addInfo="РџРѕ Р РѕСЃСЃРёРё Р±РµСЃРїР»Р°С‚РЅРѕ" prior="1" cntr="ru">8-800-555-02-55</phoneNumber>
+						<phoneNumber pin="0" addInfo="РР·-Р·Р° РіСЂР°РЅРёС†С‹ РїРѕ С‚Р°СЂРёС„Сѓ РѕРїРµСЂР°С‚РѕСЂР°" prior="2" cntr="other" >+7(495) 669-06-38</phoneNumber>
 					</phoneNumbers>
 				</tarifPlan>
 				<tarifPlan id="2">
 					<phoneNumbers>
-						<phoneNumber pin="320" addInfo="По России бесплатно (МТС, Билайн, Мегафон, Tele2, Yota, Мотив)" prior="1" cntr="ru">900</phoneNumber>
-						<phoneNumber pin="320" addInfo="Из-за границы по тарифу оператора" prior="2" cntr="other">+7(495) 500-55-50</phoneNumber>
+						<phoneNumber pin="320" addInfo="РџРѕ Р РѕСЃСЃРёРё Р±РµСЃРїР»Р°С‚РЅРѕ (РњРўРЎ, Р‘РёР»Р°Р№РЅ, РњРµРіР°С„РѕРЅ, Tele2, Yota, РњРѕС‚РёРІ)" prior="1" cntr="ru">900</phoneNumber>
+						<phoneNumber pin="320" addInfo="РР·-Р·Р° РіСЂР°РЅРёС†С‹ РїРѕ С‚Р°СЂРёС„Сѓ РѕРїРµСЂР°С‚РѕСЂР°" prior="2" cntr="other">+7(495) 500-55-50</phoneNumber>
 					</phoneNumbers>
 				</tarifPlan>
 				<tarifPlan id="3">
 					<phoneNumbers>
-						<phoneNumber pin="0" addInfo="По России бесплатно" prior="1" cntr="ru">8-800-333-22-33</phoneNumber>
-						<phoneNumber pin="0" addInfo="Из-за границы по тарифу оператора" prior="2" cntr="other">+7(495) 544-45-40</phoneNumber>
+						<phoneNumber pin="0" addInfo="РџРѕ Р РѕСЃСЃРёРё Р±РµСЃРїР»Р°С‚РЅРѕ" prior="1" cntr="ru">8-800-333-22-33</phoneNumber>
+						<phoneNumber pin="0" addInfo="РР·-Р·Р° РіСЂР°РЅРёС†С‹ РїРѕ С‚Р°СЂРёС„Сѓ РѕРїРµСЂР°С‚РѕСЂР°" prior="2" cntr="other">+7(495) 544-45-40</phoneNumber>
 					</phoneNumbers>
 				</tarifPlan>
 			</tarifPlans>
 		</param>
-		<param name="HiddenStrings" description="Скрываемые сообщения">
+		<param name="HiddenStrings" description="РЎРєСЂС‹РІР°РµРјС‹Рµ СЃРѕРѕР±С‰РµРЅРёСЏ">
 			<type>strings</type>
 			<strings>
-				<string>Регион сохранен</string>
-				<string>Обратите внимание: последний раз Вы совершали данный платеж</string>
-				<string>Обратите внимание! Не совпадает ФИО получателя.</string>
-				<string>вы можете выполнить операцию без подтверждения в контактном центре</string>
-				<string>вы превысили суточный лимит денежных средств по операциям</string>
-				<string>Операция превысила суточный лимит.</string>
-				<string>Вы превысили лимит на сумму перевода средств, выполняемых в течение суток.</string>
-				<string>За выполнение данной операции комиссия не взимается</string>
-				<string>Обратите внимание! Вы можете выполнить операцию без подтверждения</string>
-				<string>Не удается получить карту перевода по указанному номеру телефона</string>
-				<string>Счет списания и счет зачисления должны быть различны</string>
-				<string>Операцию возможно выполнить только на вклад открытый в</string>
-				<string>Ваш платеж успешно отправлен в банк на обработку!</string>
-				<string>Операция успешно исполнена. Спасибо, что Вы воспользовались «Сбербанк Онлайн»!</string>
-				<string>Ваша заявка успешно отправлена в банк! Спасибо, что воспользовались системой "Сбербанк ОнЛайн"!</string>
-				<string>АБС не доступна. Получение информации не возможно.</string>
-				<string>Информация из АБС временно недоступна.</string>
-				<string>По некоторым Вашим картам информация недоступна.</string>
-				<string>За выполнение данной операции комиссия не взимается.</string>
-				<string>За данную операцию может взиматься комиссия в соответствии с тарифами банка. Сумму комиссии Вы можете посмотреть на сайте банка.</string>
-				<string>В данный момент внешняя система неактивна.</string>
-				<string>Неверная авторизация. Неактивный mGUID.</string>
-				<string>Ваша заявка успешно отправлена в банк! После исполнения заявки Вы увидите созданный автоплатеж, выбрав пункт «Управление автоплатежами» в разделе «Мои автоплатежи» личного меню. Спасибо, что воспользовались системой «Сбербанк Онлайн»!</string>
-				<string>за данную операцию может взиматься комиссия</string>
-				<string>Значение данного поля изменилось. При необходимости Вы можете его отредактировать</string>
-				<string>Платеж успешно отправлен в банк. Спасибо, что воспользовались «Сбербанк Онлайн»!</string>
-				<string>Обратите внимание! Вы не можете совершить операцию на сумму больше</string>
-				<string>Обратите внимание! Доступный лимит для совершения операции составляет</string>
-				<string>Доступ к операции запрещен!</string>
+				<string>Р РµРіРёРѕРЅ СЃРѕС…СЂР°РЅРµРЅ</string>
+				<string>РћР±СЂР°С‚РёС‚Рµ РІРЅРёРјР°РЅРёРµ: РїРѕСЃР»РµРґРЅРёР№ СЂР°Р· Р’С‹ СЃРѕРІРµСЂС€Р°Р»Рё РґР°РЅРЅС‹Р№ РїР»Р°С‚РµР¶</string>
+				<string>РћР±СЂР°С‚РёС‚Рµ РІРЅРёРјР°РЅРёРµ! РќРµ СЃРѕРІРїР°РґР°РµС‚ Р¤РРћ РїРѕР»СѓС‡Р°С‚РµР»СЏ.</string>
+				<string>РІС‹ РјРѕР¶РµС‚Рµ РІС‹РїРѕР»РЅРёС‚СЊ РѕРїРµСЂР°С†РёСЋ Р±РµР· РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ РІ РєРѕРЅС‚Р°РєС‚РЅРѕРј С†РµРЅС‚СЂРµ</string>
+				<string>РІС‹ РїСЂРµРІС‹СЃРёР»Рё СЃСѓС‚РѕС‡РЅС‹Р№ Р»РёРјРёС‚ РґРµРЅРµР¶РЅС‹С… СЃСЂРµРґСЃС‚РІ РїРѕ РѕРїРµСЂР°С†РёСЏРј</string>
+				<string>РћРїРµСЂР°С†РёСЏ РїСЂРµРІС‹СЃРёР»Р° СЃСѓС‚РѕС‡РЅС‹Р№ Р»РёРјРёС‚.</string>
+				<string>Р’С‹ РїСЂРµРІС‹СЃРёР»Рё Р»РёРјРёС‚ РЅР° СЃСѓРјРјСѓ РїРµСЂРµРІРѕРґР° СЃСЂРµРґСЃС‚РІ, РІС‹РїРѕР»РЅСЏРµРјС‹С… РІ С‚РµС‡РµРЅРёРµ СЃСѓС‚РѕРє.</string>
+				<string>Р—Р° РІС‹РїРѕР»РЅРµРЅРёРµ РґР°РЅРЅРѕР№ РѕРїРµСЂР°С†РёРё РєРѕРјРёСЃСЃРёСЏ РЅРµ РІР·РёРјР°РµС‚СЃСЏ</string>
+				<string>РћР±СЂР°С‚РёС‚Рµ РІРЅРёРјР°РЅРёРµ! Р’С‹ РјРѕР¶РµС‚Рµ РІС‹РїРѕР»РЅРёС‚СЊ РѕРїРµСЂР°С†РёСЋ Р±РµР· РїРѕРґС‚РІРµСЂР¶РґРµРЅРёСЏ</string>
+				<string>РќРµ СѓРґР°РµС‚СЃСЏ РїРѕР»СѓС‡РёС‚СЊ РєР°СЂС‚Сѓ РїРµСЂРµРІРѕРґР° РїРѕ СѓРєР°Р·Р°РЅРЅРѕРјСѓ РЅРѕРјРµСЂСѓ С‚РµР»РµС„РѕРЅР°</string>
+				<string>РЎС‡РµС‚ СЃРїРёСЃР°РЅРёСЏ Рё СЃС‡РµС‚ Р·Р°С‡РёСЃР»РµРЅРёСЏ РґРѕР»Р¶РЅС‹ Р±С‹С‚СЊ СЂР°Р·Р»РёС‡РЅС‹</string>
+				<string>РћРїРµСЂР°С†РёСЋ РІРѕР·РјРѕР¶РЅРѕ РІС‹РїРѕР»РЅРёС‚СЊ С‚РѕР»СЊРєРѕ РЅР° РІРєР»Р°Рґ РѕС‚РєСЂС‹С‚С‹Р№ РІ</string>
+				<string>Р’Р°С€ РїР»Р°С‚РµР¶ СѓСЃРїРµС€РЅРѕ РѕС‚РїСЂР°РІР»РµРЅ РІ Р±Р°РЅРє РЅР° РѕР±СЂР°Р±РѕС‚РєСѓ!</string>
+				<string>РћРїРµСЂР°С†РёСЏ СѓСЃРїРµС€РЅРѕ РёСЃРїРѕР»РЅРµРЅР°. РЎРїР°СЃРёР±Рѕ, С‡С‚Рѕ Р’С‹ РІРѕСЃРїРѕР»СЊР·РѕРІР°Р»РёСЃСЊ В«РЎР±РµСЂР±Р°РЅРє РћРЅР»Р°Р№РЅВ»!</string>
+				<string>Р’Р°С€Р° Р·Р°СЏРІРєР° СѓСЃРїРµС€РЅРѕ РѕС‚РїСЂР°РІР»РµРЅР° РІ Р±Р°РЅРє! РЎРїР°СЃРёР±Рѕ, С‡С‚Рѕ РІРѕСЃРїРѕР»СЊР·РѕРІР°Р»РёСЃСЊ СЃРёСЃС‚РµРјРѕР№ "РЎР±РµСЂР±Р°РЅРє РћРЅР›Р°Р№РЅ"!</string>
+				<string>РђР‘РЎ РЅРµ РґРѕСЃС‚СѓРїРЅР°. РџРѕР»СѓС‡РµРЅРёРµ РёРЅС„РѕСЂРјР°С†РёРё РЅРµ РІРѕР·РјРѕР¶РЅРѕ.</string>
+				<string>РРЅС„РѕСЂРјР°С†РёСЏ РёР· РђР‘РЎ РІСЂРµРјРµРЅРЅРѕ РЅРµРґРѕСЃС‚СѓРїРЅР°.</string>
+				<string>РџРѕ РЅРµРєРѕС‚РѕСЂС‹Рј Р’Р°С€РёРј РєР°СЂС‚Р°Рј РёРЅС„РѕСЂРјР°С†РёСЏ РЅРµРґРѕСЃС‚СѓРїРЅР°.</string>
+				<string>Р—Р° РІС‹РїРѕР»РЅРµРЅРёРµ РґР°РЅРЅРѕР№ РѕРїРµСЂР°С†РёРё РєРѕРјРёСЃСЃРёСЏ РЅРµ РІР·РёРјР°РµС‚СЃСЏ.</string>
+				<string>Р—Р° РґР°РЅРЅСѓСЋ РѕРїРµСЂР°С†РёСЋ РјРѕР¶РµС‚ РІР·РёРјР°С‚СЊСЃСЏ РєРѕРјРёСЃСЃРёСЏ РІ СЃРѕРѕС‚РІРµС‚СЃС‚РІРёРё СЃ С‚Р°СЂРёС„Р°РјРё Р±Р°РЅРєР°. РЎСѓРјРјСѓ РєРѕРјРёСЃСЃРёРё Р’С‹ РјРѕР¶РµС‚Рµ РїРѕСЃРјРѕС‚СЂРµС‚СЊ РЅР° СЃР°Р№С‚Рµ Р±Р°РЅРєР°.</string>
+				<string>Р’ РґР°РЅРЅС‹Р№ РјРѕРјРµРЅС‚ РІРЅРµС€РЅСЏСЏ СЃРёСЃС‚РµРјР° РЅРµР°РєС‚РёРІРЅР°.</string>
+				<string>РќРµРІРµСЂРЅР°СЏ Р°РІС‚РѕСЂРёР·Р°С†РёСЏ. РќРµР°РєС‚РёРІРЅС‹Р№ mGUID.</string>
+				<string>Р’Р°С€Р° Р·Р°СЏРІРєР° СѓСЃРїРµС€РЅРѕ РѕС‚РїСЂР°РІР»РµРЅР° РІ Р±Р°РЅРє! РџРѕСЃР»Рµ РёСЃРїРѕР»РЅРµРЅРёСЏ Р·Р°СЏРІРєРё Р’С‹ СѓРІРёРґРёС‚Рµ СЃРѕР·РґР°РЅРЅС‹Р№ Р°РІС‚РѕРїР»Р°С‚РµР¶, РІС‹Р±СЂР°РІ РїСѓРЅРєС‚ В«РЈРїСЂР°РІР»РµРЅРёРµ Р°РІС‚РѕРїР»Р°С‚РµР¶Р°РјРёВ» РІ СЂР°Р·РґРµР»Рµ В«РњРѕРё Р°РІС‚РѕРїР»Р°С‚РµР¶РёВ» Р»РёС‡РЅРѕРіРѕ РјРµРЅСЋ. РЎРїР°СЃРёР±Рѕ, С‡С‚Рѕ РІРѕСЃРїРѕР»СЊР·РѕРІР°Р»РёСЃСЊ СЃРёСЃС‚РµРјРѕР№ В«РЎР±РµСЂР±Р°РЅРє РћРЅР»Р°Р№РЅВ»!</string>
+				<string>Р·Р° РґР°РЅРЅСѓСЋ РѕРїРµСЂР°С†РёСЋ РјРѕР¶РµС‚ РІР·РёРјР°С‚СЊСЃСЏ РєРѕРјРёСЃСЃРёСЏ</string>
+				<string>Р—РЅР°С‡РµРЅРёРµ РґР°РЅРЅРѕРіРѕ РїРѕР»СЏ РёР·РјРµРЅРёР»РѕСЃСЊ. РџСЂРё РЅРµРѕР±С…РѕРґРёРјРѕСЃС‚Рё Р’С‹ РјРѕР¶РµС‚Рµ РµРіРѕ РѕС‚СЂРµРґР°РєС‚РёСЂРѕРІР°С‚СЊ</string>
+				<string>РџР»Р°С‚РµР¶ СѓСЃРїРµС€РЅРѕ РѕС‚РїСЂР°РІР»РµРЅ РІ Р±Р°РЅРє. РЎРїР°СЃРёР±Рѕ, С‡С‚Рѕ РІРѕСЃРїРѕР»СЊР·РѕРІР°Р»РёСЃСЊ В«РЎР±РµСЂР±Р°РЅРє РћРЅР»Р°Р№РЅВ»!</string>
+				<string>РћР±СЂР°С‚РёС‚Рµ РІРЅРёРјР°РЅРёРµ! Р’С‹ РЅРµ РјРѕР¶РµС‚Рµ СЃРѕРІРµСЂС€РёС‚СЊ РѕРїРµСЂР°С†РёСЋ РЅР° СЃСѓРјРјСѓ Р±РѕР»СЊС€Рµ</string>
+				<string>РћР±СЂР°С‚РёС‚Рµ РІРЅРёРјР°РЅРёРµ! Р”РѕСЃС‚СѓРїРЅС‹Р№ Р»РёРјРёС‚ РґР»СЏ СЃРѕРІРµСЂС€РµРЅРёСЏ РѕРїРµСЂР°С†РёРё СЃРѕСЃС‚Р°РІР»СЏРµС‚</string>
+				<string>Р”РѕСЃС‚СѓРї Рє РѕРїРµСЂР°С†РёРё Р·Р°РїСЂРµС‰РµРЅ!</string>
 			</strings>
 		</param>
-		<param name="ReplaceableStrings" description="Заменяемые сообщения">
+		<param name="ReplaceableStrings" description="Р—Р°РјРµРЅСЏРµРјС‹Рµ СЃРѕРѕР±С‰РµРЅРёСЏ">
 			<type>strings</type>
 			<strings>
 				<string>
-					<old>Операция превышает суточный лимит. Вы можете уменьшить сумму или для исполнения операции Вам потребуется подтвердить ее через Контактный центр банка.</old>
-					<new>Вы превысили лимит по текущей операции. Данный лимит действует в течение 24 часов. Вы можете уменьшить сумму или для исполнения операции Вам потребуется подтвердить ее через Контактный центр банка.</new>
+					<old>РћРїРµСЂР°С†РёСЏ РїСЂРµРІС‹С€Р°РµС‚ СЃСѓС‚РѕС‡РЅС‹Р№ Р»РёРјРёС‚. Р’С‹ РјРѕР¶РµС‚Рµ СѓРјРµРЅСЊС€РёС‚СЊ СЃСѓРјРјСѓ РёР»Рё РґР»СЏ РёСЃРїРѕР»РЅРµРЅРёСЏ РѕРїРµСЂР°С†РёРё Р’Р°Рј РїРѕС‚СЂРµР±СѓРµС‚СЃСЏ РїРѕРґС‚РІРµСЂРґРёС‚СЊ РµРµ С‡РµСЂРµР· РљРѕРЅС‚Р°РєС‚РЅС‹Р№ С†РµРЅС‚СЂ Р±Р°РЅРєР°.</old>
+					<new>Р’С‹ РїСЂРµРІС‹СЃРёР»Рё Р»РёРјРёС‚ РїРѕ С‚РµРєСѓС‰РµР№ РѕРїРµСЂР°С†РёРё. Р”Р°РЅРЅС‹Р№ Р»РёРјРёС‚ РґРµР№СЃС‚РІСѓРµС‚ РІ С‚РµС‡РµРЅРёРµ 24 С‡Р°СЃРѕРІ. Р’С‹ РјРѕР¶РµС‚Рµ СѓРјРµРЅСЊС€РёС‚СЊ СЃСѓРјРјСѓ РёР»Рё РґР»СЏ РёСЃРїРѕР»РЅРµРЅРёСЏ РѕРїРµСЂР°С†РёРё Р’Р°Рј РїРѕС‚СЂРµР±СѓРµС‚СЃСЏ РїРѕРґС‚РІРµСЂРґРёС‚СЊ РµРµ С‡РµСЂРµР· РљРѕРЅС‚Р°РєС‚РЅС‹Р№ С†РµРЅС‚СЂ Р±Р°РЅРєР°.</new>
 				</string>
 				<string>
-					<old>При выполнении этой операции Вы превысите суточный лимит для совершения переводов и оплаты услуг. Данная операция будет исполнена банком только после того, как Вы подтвердите ее через Контактный центр банка по телефонам +7 (495) 500 5550, 8 (800) 555 5550.</old>
-					<new>При выполнении этой операции вы превысите лимит на совершение переводов и оплаты услуг. Данный лимит действует в течение 24 часов. Вы можете уменьшить сумму или для исполнения операции Вам потребуется подтвердить ее через Контактный центр банка.</new>
+					<old>РџСЂРё РІС‹РїРѕР»РЅРµРЅРёРё СЌС‚РѕР№ РѕРїРµСЂР°С†РёРё Р’С‹ РїСЂРµРІС‹СЃРёС‚Рµ СЃСѓС‚РѕС‡РЅС‹Р№ Р»РёРјРёС‚ РґР»СЏ СЃРѕРІРµСЂС€РµРЅРёСЏ РїРµСЂРµРІРѕРґРѕРІ Рё РѕРїР»Р°С‚С‹ СѓСЃР»СѓРі. Р”Р°РЅРЅР°СЏ РѕРїРµСЂР°С†РёСЏ Р±СѓРґРµС‚ РёСЃРїРѕР»РЅРµРЅР° Р±Р°РЅРєРѕРј С‚РѕР»СЊРєРѕ РїРѕСЃР»Рµ С‚РѕРіРѕ, РєР°Рє Р’С‹ РїРѕРґС‚РІРµСЂРґРёС‚Рµ РµРµ С‡РµСЂРµР· РљРѕРЅС‚Р°РєС‚РЅС‹Р№ С†РµРЅС‚СЂ Р±Р°РЅРєР° РїРѕ С‚РµР»РµС„РѕРЅР°Рј +7 (495) 500 5550, 8 (800) 555 5550.</old>
+					<new>РџСЂРё РІС‹РїРѕР»РЅРµРЅРёРё СЌС‚РѕР№ РѕРїРµСЂР°С†РёРё РІС‹ РїСЂРµРІС‹СЃРёС‚Рµ Р»РёРјРёС‚ РЅР° СЃРѕРІРµСЂС€РµРЅРёРµ РїРµСЂРµРІРѕРґРѕРІ Рё РѕРїР»Р°С‚С‹ СѓСЃР»СѓРі. Р”Р°РЅРЅС‹Р№ Р»РёРјРёС‚ РґРµР№СЃС‚РІСѓРµС‚ РІ С‚РµС‡РµРЅРёРµ 24 С‡Р°СЃРѕРІ. Р’С‹ РјРѕР¶РµС‚Рµ СѓРјРµРЅСЊС€РёС‚СЊ СЃСѓРјРјСѓ РёР»Рё РґР»СЏ РёСЃРїРѕР»РЅРµРЅРёСЏ РѕРїРµСЂР°С†РёРё Р’Р°Рј РїРѕС‚СЂРµР±СѓРµС‚СЃСЏ РїРѕРґС‚РІРµСЂРґРёС‚СЊ РµРµ С‡РµСЂРµР· РљРѕРЅС‚Р°РєС‚РЅС‹Р№ С†РµРЅС‚СЂ Р±Р°РЅРєР°.</new>
 				</string>
 				<string>
-					<old>Вы превысили лимит по количеству операций перевода средств, выполняемых в течение суток. Операцию необходимо подтвердить в Контактном центре банка, позвонив по телефонам 8 (800) 555 5550, +7 (495) 500 5550.</old>
-					<new>Вы превысили лимит по количеству переводов, выполняемых в течение 24 часов. Операцию необходимо подтвердить в Контактном центре банка, позвонив по телефонам 8 (800) 555 5550, +7 (495) 500 5550.</new>
+					<old>Р’С‹ РїСЂРµРІС‹СЃРёР»Рё Р»РёРјРёС‚ РїРѕ РєРѕР»РёС‡РµСЃС‚РІСѓ РѕРїРµСЂР°С†РёР№ РїРµСЂРµРІРѕРґР° СЃСЂРµРґСЃС‚РІ, РІС‹РїРѕР»РЅСЏРµРјС‹С… РІ С‚РµС‡РµРЅРёРµ СЃСѓС‚РѕРє. РћРїРµСЂР°С†РёСЋ РЅРµРѕР±С…РѕРґРёРјРѕ РїРѕРґС‚РІРµСЂРґРёС‚СЊ РІ РљРѕРЅС‚Р°РєС‚РЅРѕРј С†РµРЅС‚СЂРµ Р±Р°РЅРєР°, РїРѕР·РІРѕРЅРёРІ РїРѕ С‚РµР»РµС„РѕРЅР°Рј 8 (800) 555 5550, +7 (495) 500 5550.</old>
+					<new>Р’С‹ РїСЂРµРІС‹СЃРёР»Рё Р»РёРјРёС‚ РїРѕ РєРѕР»РёС‡РµСЃС‚РІСѓ РїРµСЂРµРІРѕРґРѕРІ, РІС‹РїРѕР»РЅСЏРµРјС‹С… РІ С‚РµС‡РµРЅРёРµ 24 С‡Р°СЃРѕРІ. РћРїРµСЂР°С†РёСЋ РЅРµРѕР±С…РѕРґРёРјРѕ РїРѕРґС‚РІРµСЂРґРёС‚СЊ РІ РљРѕРЅС‚Р°РєС‚РЅРѕРј С†РµРЅС‚СЂРµ Р±Р°РЅРєР°, РїРѕР·РІРѕРЅРёРІ РїРѕ С‚РµР»РµС„РѕРЅР°Рј 8 (800) 555 5550, +7 (495) 500 5550.</new>
 				</string>
 				<string>
-					<old>Вы превысили лимит по количеству операций перевода средств, выполняемых в течение суток. Пожалуйста, повторите операцию позже.</old>
-					<new>Вы превысили лимит по количеству переводов, выполняемых в течение 24 часов. Пожалуйста, повторите операцию позже.</new>
+					<old>Р’С‹ РїСЂРµРІС‹СЃРёР»Рё Р»РёРјРёС‚ РїРѕ РєРѕР»РёС‡РµСЃС‚РІСѓ РѕРїРµСЂР°С†РёР№ РїРµСЂРµРІРѕРґР° СЃСЂРµРґСЃС‚РІ, РІС‹РїРѕР»РЅСЏРµРјС‹С… РІ С‚РµС‡РµРЅРёРµ СЃСѓС‚РѕРє. РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РїРѕРІС‚РѕСЂРёС‚Рµ РѕРїРµСЂР°С†РёСЋ РїРѕР·Р¶Рµ.</old>
+					<new>Р’С‹ РїСЂРµРІС‹СЃРёР»Рё Р»РёРјРёС‚ РїРѕ РєРѕР»РёС‡РµСЃС‚РІСѓ РїРµСЂРµРІРѕРґРѕРІ, РІС‹РїРѕР»РЅСЏРµРјС‹С… РІ С‚РµС‡РµРЅРёРµ 24 С‡Р°СЃРѕРІ. РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РїРѕРІС‚РѕСЂРёС‚Рµ РѕРїРµСЂР°С†РёСЋ РїРѕР·Р¶Рµ.</new>
 				</string>
 				<string>
-					<old>Вы превысили лимит на сумму операций перевода средств, выполняемых в течение суток. Операцию необходимо подтвердить в Контактном центре банка, позвонив по телефонам 8 (800) 555 5550, +7 (495) 500 5550.</old>
-					<new>Вы превысили лимит на сумму операций перевода средств, выполняемых в течение 24 часов. Операцию необходимо подтвердить в Контактном центре банка, позвонив по телефонам 8 (800) 555 5550, +7 (495) 500 5550.</new>
+					<old>Р’С‹ РїСЂРµРІС‹СЃРёР»Рё Р»РёРјРёС‚ РЅР° СЃСѓРјРјСѓ РѕРїРµСЂР°С†РёР№ РїРµСЂРµРІРѕРґР° СЃСЂРµРґСЃС‚РІ, РІС‹РїРѕР»РЅСЏРµРјС‹С… РІ С‚РµС‡РµРЅРёРµ СЃСѓС‚РѕРє. РћРїРµСЂР°С†РёСЋ РЅРµРѕР±С…РѕРґРёРјРѕ РїРѕРґС‚РІРµСЂРґРёС‚СЊ РІ РљРѕРЅС‚Р°РєС‚РЅРѕРј С†РµРЅС‚СЂРµ Р±Р°РЅРєР°, РїРѕР·РІРѕРЅРёРІ РїРѕ С‚РµР»РµС„РѕРЅР°Рј 8 (800) 555 5550, +7 (495) 500 5550.</old>
+					<new>Р’С‹ РїСЂРµРІС‹СЃРёР»Рё Р»РёРјРёС‚ РЅР° СЃСѓРјРјСѓ РѕРїРµСЂР°С†РёР№ РїРµСЂРµРІРѕРґР° СЃСЂРµРґСЃС‚РІ, РІС‹РїРѕР»РЅСЏРµРјС‹С… РІ С‚РµС‡РµРЅРёРµ 24 С‡Р°СЃРѕРІ. РћРїРµСЂР°С†РёСЋ РЅРµРѕР±С…РѕРґРёРјРѕ РїРѕРґС‚РІРµСЂРґРёС‚СЊ РІ РљРѕРЅС‚Р°РєС‚РЅРѕРј С†РµРЅС‚СЂРµ Р±Р°РЅРєР°, РїРѕР·РІРѕРЅРёРІ РїРѕ С‚РµР»РµС„РѕРЅР°Рј 8 (800) 555 5550, +7 (495) 500 5550.</new>
 				</string>
 				<string>
-					<old>Вы превысили суточный лимит денежных средств по операциям. Пожалуйста повторите попытку позже.</old>
-					<new>Вы превысили лимит по сумме переведенных средств. Данный лимит действует в течение 24 часов. Пожалуйста повторите попытку позже.</new>
+					<old>Р’С‹ РїСЂРµРІС‹СЃРёР»Рё СЃСѓС‚РѕС‡РЅС‹Р№ Р»РёРјРёС‚ РґРµРЅРµР¶РЅС‹С… СЃСЂРµРґСЃС‚РІ РїРѕ РѕРїРµСЂР°С†РёСЏРј. РџРѕР¶Р°Р»СѓР№СЃС‚Р° РїРѕРІС‚РѕСЂРёС‚Рµ РїРѕРїС‹С‚РєСѓ РїРѕР·Р¶Рµ.</old>
+					<new>Р’С‹ РїСЂРµРІС‹СЃРёР»Рё Р»РёРјРёС‚ РїРѕ СЃСѓРјРјРµ РїРµСЂРµРІРµРґРµРЅРЅС‹С… СЃСЂРµРґСЃС‚РІ. Р”Р°РЅРЅС‹Р№ Р»РёРјРёС‚ РґРµР№СЃС‚РІСѓРµС‚ РІ С‚РµС‡РµРЅРёРµ 24 С‡Р°СЃРѕРІ. РџРѕР¶Р°Р»СѓР№СЃС‚Р° РїРѕРІС‚РѕСЂРёС‚Рµ РїРѕРїС‹С‚РєСѓ РїРѕР·Р¶Рµ.</new>
 				</string>
 				<string>
-					<old>Регистрация перевода не возможна, у вас уже имеются зарегистрированные не выплаченные переводы</old>
-					<new>Чтобы сделать новый заказ, снимите деньги по активному коду в банкомате или отмените заказ в истории операций. Также, можно сделать заказ по другой карте.</new>
+					<old>Р РµРіРёСЃС‚СЂР°С†РёСЏ РїРµСЂРµРІРѕРґР° РЅРµ РІРѕР·РјРѕР¶РЅР°, Сѓ РІР°СЃ СѓР¶Рµ РёРјРµСЋС‚СЃСЏ Р·Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°РЅРЅС‹Рµ РЅРµ РІС‹РїР»Р°С‡РµРЅРЅС‹Рµ РїРµСЂРµРІРѕРґС‹</old>
+					<new>Р§С‚РѕР±С‹ СЃРґРµР»Р°С‚СЊ РЅРѕРІС‹Р№ Р·Р°РєР°Р·, СЃРЅРёРјРёС‚Рµ РґРµРЅСЊРіРё РїРѕ Р°РєС‚РёРІРЅРѕРјСѓ РєРѕРґСѓ РІ Р±Р°РЅРєРѕРјР°С‚Рµ РёР»Рё РѕС‚РјРµРЅРёС‚Рµ Р·Р°РєР°Р· РІ РёСЃС‚РѕСЂРёРё РѕРїРµСЂР°С†РёР№. РўР°РєР¶Рµ, РјРѕР¶РЅРѕ СЃРґРµР»Р°С‚СЊ Р·Р°РєР°Р· РїРѕ РґСЂСѓРіРѕР№ РєР°СЂС‚Рµ.</new>
 				</string>
                 <string>
-					<old>Неверный логин или пароль!</old>
-					<new>Вы ввели неверный код. У вас осталось 2 попытки. Если вы забыли код, смените пользователя для повторной регистрации.</new>
+					<old>РќРµРІРµСЂРЅС‹Р№ Р»РѕРіРёРЅ РёР»Рё РїР°СЂРѕР»СЊ!</old>
+					<new>Р’С‹ РІРІРµР»Рё РЅРµРІРµСЂРЅС‹Р№ РєРѕРґ. РЈ РІР°СЃ РѕСЃС‚Р°Р»РѕСЃСЊ 2 РїРѕРїС‹С‚РєРё. Р•СЃР»Рё РІС‹ Р·Р°Р±С‹Р»Рё РєРѕРґ, СЃРјРµРЅРёС‚Рµ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ РґР»СЏ РїРѕРІС‚РѕСЂРЅРѕР№ СЂРµРіРёСЃС‚СЂР°С†РёРё.</new>
 				</string>
               	<string>
-					<old>Неверный логин или пароль. Следующая неверная попытка заблокирует вход в Сбербанк Онлайн на 1ч 00 мин</old>
-					<new>Вы ввели неверный код. Следующая неверная попытка заблокирует вход на час. Если вы забыли код, смените пользователя для повторной регистрации.</new>
+					<old>РќРµРІРµСЂРЅС‹Р№ Р»РѕРіРёРЅ РёР»Рё РїР°СЂРѕР»СЊ. РЎР»РµРґСѓСЋС‰Р°СЏ РЅРµРІРµСЂРЅР°СЏ РїРѕРїС‹С‚РєР° Р·Р°Р±Р»РѕРєРёСЂСѓРµС‚ РІС…РѕРґ РІ РЎР±РµСЂР±Р°РЅРє РћРЅР»Р°Р№РЅ РЅР° 1С‡ 00 РјРёРЅ</old>
+					<new>Р’С‹ РІРІРµР»Рё РЅРµРІРµСЂРЅС‹Р№ РєРѕРґ. РЎР»РµРґСѓСЋС‰Р°СЏ РЅРµРІРµСЂРЅР°СЏ РїРѕРїС‹С‚РєР° Р·Р°Р±Р»РѕРєРёСЂСѓРµС‚ РІС…РѕРґ РЅР° С‡Р°СЃ. Р•СЃР»Рё РІС‹ Р·Р°Р±С‹Р»Рё РєРѕРґ, СЃРјРµРЅРёС‚Рµ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ РґР»СЏ РїРѕРІС‚РѕСЂРЅРѕР№ СЂРµРіРёСЃС‚СЂР°С†РёРё.</new>
 				</string>
               	<string>
-					<old>Ваш логин заблокирован. Повторите попытку позже.</old>
-					<new>Вход в Сбербанк Онлайн заблокирован. Если вы забыли код, смените пользователя для повторной регистрации.</new>
+					<old>Р’Р°С€ Р»РѕРіРёРЅ Р·Р°Р±Р»РѕРєРёСЂРѕРІР°РЅ. РџРѕРІС‚РѕСЂРёС‚Рµ РїРѕРїС‹С‚РєСѓ РїРѕР·Р¶Рµ.</old>
+					<new>Р’С…РѕРґ РІ РЎР±РµСЂР±Р°РЅРє РћРЅР»Р°Р№РЅ Р·Р°Р±Р»РѕРєРёСЂРѕРІР°РЅ. Р•СЃР»Рё РІС‹ Р·Р°Р±С‹Р»Рё РєРѕРґ, СЃРјРµРЅРёС‚Рµ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ РґР»СЏ РїРѕРІС‚РѕСЂРЅРѕР№ СЂРµРіРёСЃС‚СЂР°С†РёРё.</new>
 				</string>
 			</strings>
 		</param>
-		<param name="Manual" description="Руководство пользователя">
+		<param name="Manual" description="Р СѓРєРѕРІРѕРґСЃС‚РІРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ">
 			<type>link</type>
 			<link>http://sberbank.ru/common/img/uploaded/files/pdf/Rukovodstvo_polzovatelya_iPhone.pdf</link>
 		</param>
@@ -206,7 +206,7 @@
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
-		<param name="hide_receiver" description="Скрываемые ПУ по расч.счету">
+		<param name="hide_receiver" description="РЎРєСЂС‹РІР°РµРјС‹Рµ РџРЈ РїРѕ СЂР°СЃС‡.СЃС‡РµС‚Сѓ">
 			<type>list</type>
 			<receiver>
 				<receiverAccount>40703810838000001730</receiverAccount>
@@ -287,11 +287,11 @@
 				<receiverAccount>40703810238000004230</receiverAccount>
 			</receiver>
 		</param>
-		<param name="charity_text" description="Текст при попытке оплаты благотворительного ПУ">
+		<param name="charity_text" description="РўРµРєСЃС‚ РїСЂРё РїРѕРїС‹С‚РєРµ РѕРїР»Р°С‚С‹ Р±Р»Р°РіРѕС‚РІРѕСЂРёС‚РµР»СЊРЅРѕРіРѕ РџРЈ">
 			<type>strings</type>
 			<strings>
-				<string localeId="ru">"К сожалению, оплата в пользу благотворительных организаций не может осуществляться в мобильном приложении для iOS по независящим от нас причинам.
-Вы можете совершить оплату через веб-версию Сбербанк Онлайн, любое отделение или банкомат Сбербанка."</string>
+				<string localeId="ru">"Рљ СЃРѕР¶Р°Р»РµРЅРёСЋ, РѕРїР»Р°С‚Р° РІ РїРѕР»СЊР·Сѓ Р±Р»Р°РіРѕС‚РІРѕСЂРёС‚РµР»СЊРЅС‹С… РѕСЂРіР°РЅРёР·Р°С†РёР№ РЅРµ РјРѕР¶РµС‚ РѕСЃСѓС‰РµСЃС‚РІР»СЏС‚СЊСЃСЏ РІ РјРѕР±РёР»СЊРЅРѕРј РїСЂРёР»РѕР¶РµРЅРёРё РґР»СЏ iOS РїРѕ РЅРµР·Р°РІРёСЃСЏС‰РёРј РѕС‚ РЅР°СЃ РїСЂРёС‡РёРЅР°Рј.
+Р’С‹ РјРѕР¶РµС‚Рµ СЃРѕРІРµСЂС€РёС‚СЊ РѕРїР»Р°С‚Сѓ С‡РµСЂРµР· РІРµР±-РІРµСЂСЃРёСЋ РЎР±РµСЂР±Р°РЅРє РћРЅР»Р°Р№РЅ, Р»СЋР±РѕРµ РѕС‚РґРµР»РµРЅРёРµ РёР»Рё Р±Р°РЅРєРѕРјР°С‚ РЎР±РµСЂР±Р°РЅРєР°."</string>
 			</strings>
 		</param>
 		<param name="craudgifting" description="switch for craudgifting">
@@ -299,31 +299,31 @@
 			<languages localeId="ru" enabled="true"/>
 			<languages localeId="en" enabled="false"/>
 		</param>
-		<param name="fundInfo" description="Получение информации о наличии у контактов МП про-версии">
+		<param name="fundInfo" description="РџРѕР»СѓС‡РµРЅРёРµ РёРЅС„РѕСЂРјР°С†РёРё Рѕ РЅР°Р»РёС‡РёРё Сѓ РєРѕРЅС‚Р°РєС‚РѕРІ РњРџ РїСЂРѕ-РІРµСЂСЃРёРё">
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
-		<param name="budget" description="Бюджет на сегодня">
+		<param name="budget" description="Р‘СЋРґР¶РµС‚ РЅР° СЃРµРіРѕРґРЅСЏ">
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
 		<param name="marketplaceMainScreenOffer"
-               description="Блок точек входа "Вклады", "Дебетовая карта" и "Другие предложения банка" на главном экране МП">
+               description="Р‘Р»РѕРє С‚РѕС‡РµРє РІС…РѕРґР° "Р’РєР»Р°РґС‹", "Р”РµР±РµС‚РѕРІР°СЏ РєР°СЂС‚Р°" Рё "Р”СЂСѓРіРёРµ РїСЂРµРґР»РѕР¶РµРЅРёСЏ Р±Р°РЅРєР°" РЅР° РіР»Р°РІРЅРѕРј СЌРєСЂР°РЅРµ РњРџ">
             <type>setting</type>
             <enabled>true</enabled>
 		</param>
-		<param name="newmarketplace" description="Витрина 7.3.1">
+		<param name="newmarketplace" description="Р’РёС‚СЂРёРЅР° 7.3.1">
             <type>setting</type>
-            <enabled>true</enabled> включает/выключает раздел Рекомендуем
-            <urls> урлы конфиг файла, на котором строится каталог в зависимости от версии приложения (версия приложения >= version, если нет урла для версии старше)
+            <enabled>false</enabled> РІРєР»СЋС‡Р°РµС‚/РІС‹РєР»СЋС‡Р°РµС‚ СЂР°Р·РґРµР» Р РµРєРѕРјРµРЅРґСѓРµРј
+            <urls> СѓСЂР»С‹ РєРѕРЅС„РёРі С„Р°Р№Р»Р°, РЅР° РєРѕС‚РѕСЂРѕРј СЃС‚СЂРѕРёС‚СЃСЏ РєР°С‚Р°Р»РѕРі РІ Р·Р°РІРёСЃРёРјРѕСЃС‚Рё РѕС‚ РІРµСЂСЃРёРё РїСЂРёР»РѕР¶РµРЅРёСЏ (РІРµСЂСЃРёСЏ РїСЂРёР»РѕР¶РµРЅРёСЏ >= version, РµСЃР»Рё РЅРµС‚ СѓСЂР»Р° РґР»СЏ РІРµСЂСЃРёРё СЃС‚Р°СЂС€Рµ)
                 <url name="marketplace_v1" url="http://sbertech.online/marketplace/config.ios.8.15.xml" version="9.1.0"/>
                 <url name="marketplace_v2" url="http://sbertech.online/marketplace/config.ios.9.2.xml" version="9.2.0"/>
                 <url name="marketplace_v2" url="http://sbertech.online/marketplace/config.ios.9.3.xml" version="9.3.0"/>
             </urls>
             <nodes>
                 <node id="node0.online.sberbank.ru">
-                    <enabled_Marketplace_2_0>true</enabled_Marketplace_2_0> рубильник переключения нового каталога и старой версии витрины
-                    <mainEntryEnabled>true</mainEntryEnabled> включение отображения точки входа "Другие предложения банка" на главном экране приложения
+                    <enabled_Marketplace_2_0>true</enabled_Marketplace_2_0> СЂСѓР±РёР»СЊРЅРёРє РїРµСЂРµРєР»СЋС‡РµРЅРёСЏ РЅРѕРІРѕРіРѕ РєР°С‚Р°Р»РѕРіР° Рё СЃС‚Р°СЂРѕР№ РІРµСЂСЃРёРё РІРёС‚СЂРёРЅС‹
+                    <mainEntryEnabled>true</mainEntryEnabled> РІРєР»СЋС‡РµРЅРёРµ РѕС‚РѕР±СЂР°Р¶РµРЅРёСЏ С‚РѕС‡РєРё РІС…РѕРґР° "Р”СЂСѓРіРёРµ РїСЂРµРґР»РѕР¶РµРЅРёСЏ Р±Р°РЅРєР°" РЅР° РіР»Р°РІРЅРѕРј СЌРєСЂР°РЅРµ РїСЂРёР»РѕР¶РµРЅРёСЏ
                 </node>
                 <node id="node1.online.sberbank.ru">
                     <enabled_Marketplace_2_0>true</enabled_Marketplace_2_0>
@@ -483,18 +483,18 @@
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
-		<param name="nfcTokensManagementMain" description="Управление ЖЦ NFC-токенов">
+		<param name="nfcTokensManagementMain" description="РЈРїСЂР°РІР»РµРЅРёРµ Р–Р¦ NFC-С‚РѕРєРµРЅРѕРІ">
 			<type>list</type>
 			<enabled>true</enabled>
 			<nfcTokensManagementVisa>true</nfcTokensManagementVisa>
 			<nfcTokensManagementMC>true</nfcTokensManagementMC>
 		</param>
-		<param name="PFMTipsCloseEmptyQuizCount" description="Вероятность, с которой пользователю будет предложено выбрать причину скрытия совета">
+		<param name="PFMTipsCloseEmptyQuizCount" description="Р’РµСЂРѕСЏС‚РЅРѕСЃС‚СЊ, СЃ РєРѕС‚РѕСЂРѕР№ РїРѕР»СЊР·РѕРІР°С‚РµР»СЋ Р±СѓРґРµС‚ РїСЂРµРґР»РѕР¶РµРЅРѕ РІС‹Р±СЂР°С‚СЊ РїСЂРёС‡РёРЅСѓ СЃРєСЂС‹С‚РёСЏ СЃРѕРІРµС‚Р°">
 			<type>setting</type>
 			<enabled>false</enabled>
 			<value>0.25</value>
 		</param>
-		<param name="pfmHosts" description="Список хостов для phizPFM">
+		<param name="pfmHosts" description="РЎРїРёСЃРѕРє С…РѕСЃС‚РѕРІ РґР»СЏ phizPFM">
 			<type>list</type>
 			<enabled>true</enabled>
 			<hosts>
@@ -521,7 +521,7 @@
 				</host>
 			</hosts>
 		</param>
-		<param name="PFMConfigFlags" description="Блоки работают по логическому ИЛИ">
+		<param name="PFMConfigFlags" description="Р‘Р»РѕРєРё СЂР°Р±РѕС‚Р°СЋС‚ РїРѕ Р»РѕРіРёС‡РµСЃРєРѕРјСѓ РР›Р">
 			<PfmGlobal>
 			</PfmGlobal>
 			<PfmNodes>
@@ -562,7 +562,7 @@
 				</node>
 			</PfmNodes>
 		</param>
-		<param name="PFMDashboardIncomeHide" description="Дашборд, Доходы, скрытие АЛФ операций">
+		<param name="PFMDashboardIncomeHide" description="Р”Р°С€Р±РѕСЂРґ, Р”РѕС…РѕРґС‹, СЃРєСЂС‹С‚РёРµ РђР›Р¤ РѕРїРµСЂР°С†РёР№">
 			<type>list</type>
 			<enabledNodes>false</enabledNodes>
 			<enabledGlobal>true</enabledGlobal>
@@ -576,32 +576,32 @@
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
-		<param name="SelfRegistrationCSAmApi" description="Включение mAPI на этапе саморегистрации в мобильном приложении">
+		<param name="SelfRegistrationCSAmApi" description="Р’РєР»СЋС‡РµРЅРёРµ mAPI РЅР° СЌС‚Р°РїРµ СЃР°РјРѕСЂРµРіРёСЃС‚СЂР°С†РёРё РІ РјРѕР±РёР»СЊРЅРѕРј РїСЂРёР»РѕР¶РµРЅРёРё">
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
-		<param name="aim_status" description="Индикация выполнения цели">
+		<param name="aim_status" description="РРЅРґРёРєР°С†РёСЏ РІС‹РїРѕР»РЅРµРЅРёСЏ С†РµР»Рё">
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
-		<param name="aim_close" description="Закрытие Цели">
+		<param name="aim_close" description="Р—Р°РєСЂС‹С‚РёРµ Р¦РµР»Рё">
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
-		<param name="aim_withDeposit" description="Открытие цели с выбором типа вклада">
+		<param name="aim_withDeposit" description="РћС‚РєСЂС‹С‚РёРµ С†РµР»Рё СЃ РІС‹Р±РѕСЂРѕРј С‚РёРїР° РІРєР»Р°РґР°">
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
-		<param name="invoicing_8.0" description="Инвойсинг">
+		<param name="invoicing_8.0" description="РРЅРІРѕР№СЃРёРЅРі">
 			<type>service</type>
 			<enabled>true</enabled>
 		</param>
-		<param name="non_accept_8.0" description="Безакцептное списание">
+		<param name="non_accept_8.0" description="Р‘РµР·Р°РєС†РµРїС‚РЅРѕРµ СЃРїРёСЃР°РЅРёРµ">
 			<type>service</type>
 			<enabled>true</enabled>
 			<value>2000</value>
 		</param>
-		<param name="AccountClosing" description="Закрытие вкладов 8.0">
+		<param name="AccountClosing" description="Р—Р°РєСЂС‹С‚РёРµ РІРєР»Р°РґРѕРІ 8.0">
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
@@ -632,7 +632,7 @@
 				</node>
 			</nodes>
 		</param>
-		<param name="CorePermissions" description="Консолидированные включатели функционала Core APP">
+		<param name="CorePermissions" description="РљРѕРЅСЃРѕР»РёРґРёСЂРѕРІР°РЅРЅС‹Рµ РІРєР»СЋС‡Р°С‚РµР»Рё С„СѓРЅРєС†РёРѕРЅР°Р»Р° Core APP">
 			<type>list</type>
 			<enabled>true</enabled>
 			<nodes>
@@ -969,7 +969,7 @@
 			<type>strings</type>
 			<strings>
 				<string localeId="ru">
-                	Вы не можете посмотреть данную операцию через мобильное приложение. Для просмотра воспользуйтесь веб-версией Сбербанк Онлайн.
+                	Р’С‹ РЅРµ РјРѕР¶РµС‚Рµ РїРѕСЃРјРѕС‚СЂРµС‚СЊ РґР°РЅРЅСѓСЋ РѕРїРµСЂР°С†РёСЋ С‡РµСЂРµР· РјРѕР±РёР»СЊРЅРѕРµ РїСЂРёР»РѕР¶РµРЅРёРµ. Р”Р»СЏ РїСЂРѕСЃРјРѕС‚СЂР° РІРѕСЃРїРѕР»СЊР·СѓР№С‚РµСЃСЊ РІРµР±-РІРµСЂСЃРёРµР№ РЎР±РµСЂР±Р°РЅРє РћРЅР»Р°Р№РЅ.
 				</string>
 			</strings>
 		</param>
@@ -999,7 +999,7 @@
 				</node>
 			</nodes>
 		</param>
-      	<param name="MAppNewBlockCardProcess" description="Обновленный процесс блокировки карт">
+      	<param name="MAppNewBlockCardProcess" description="РћР±РЅРѕРІР»РµРЅРЅС‹Р№ РїСЂРѕС†РµСЃСЃ Р±Р»РѕРєРёСЂРѕРІРєРё РєР°СЂС‚">
                           <type>service</type>
                   <enabled>true</enabled>
            <nodes>
@@ -1026,7 +1026,7 @@
           </node>
         </nodes>
 	</param>
-    <param name="MomentumCardEndDateMessage" description="Окончание срока действия карты &quot;Моментум&quot;">  
+    <param name="MomentumCardEndDateMessage" description="РћРєРѕРЅС‡Р°РЅРёРµ СЃСЂРѕРєР° РґРµР№СЃС‚РІРёСЏ РєР°СЂС‚С‹ &quot;РњРѕРјРµРЅС‚СѓРј&quot;">  
                 <type>service</type>
                   <enabled>true</enabled>
            <nodes>
@@ -1053,7 +1053,7 @@
           </node>
         </nodes>
        </param>
-		<param name="offers" description="Предложения продуктов на витринах продаж">
+		<param name="offers" description="РџСЂРµРґР»РѕР¶РµРЅРёСЏ РїСЂРѕРґСѓРєС‚РѕРІ РЅР° РІРёС‚СЂРёРЅР°С… РїСЂРѕРґР°Р¶">
             <type>list</type>
 			<enabled>true</enabled>
           	<mainScreen>
@@ -1071,31 +1071,31 @@
           	<products>
                 <product name="MobilePhoneAutopayment">
 			    	<url>https://pfm.stat.online.sberbank.ru/SALESTOOLS/mobile_phone_autopayment/index.html</url>
-			    	<actionTitle>Далее</actionTitle>
+			    	<actionTitle>Р”Р°Р»РµРµ</actionTitle>
 		        </product>
                 <product name="CreditCard">
 			    	<url>https://pfm.stat.online.sberbank.ru/SALESTOOLS/credit_card/index.html</url>
-			    	<actionTitle>Далее</actionTitle>
+			    	<actionTitle>Р”Р°Р»РµРµ</actionTitle>
 		        </product>
 				<product name="TravelInsurance">
 					<url>https://pfm.stat.online.sberbank.ru/SALESTOOLS/travel_insurance/index.html</url>
-					<actionTitle>Далее</actionTitle>
+					<actionTitle>Р”Р°Р»РµРµ</actionTitle>
 				</product>
 				<product name="Deposit">
 					<url>https://pfm.stat.online.sberbank.ru/SALESTOOLS/deposit/index.html</url>
-					<actionTitle>Далее</actionTitle>
+					<actionTitle>Р”Р°Р»РµРµ</actionTitle>
 				</product>
               	<product name="CreateTarget">
 					<url>https://pfm.stat.online.sberbank.ru/SALESTOOLS/create_target/index.html</url>
-					<actionTitle>Далее</actionTitle>
+					<actionTitle>Р”Р°Р»РµРµ</actionTitle>
 				</product>
 				<product name="MortgageInsurance">
 					<url>https://pfm.stat.online.sberbank.ru/SALESTOOLS/mortgage_insurance/index.html</url>
-					<actionTitle>Далее</actionTitle>
+					<actionTitle>Р”Р°Р»РµРµ</actionTitle>
 				</product>
               </products>
 		</param>
-    	<param name="offersAndStories" description="Предложения продуктов и истории на витринах продаж">
+    	<param name="offersAndStories" description="РџСЂРµРґР»РѕР¶РµРЅРёСЏ РїСЂРѕРґСѓРєС‚РѕРІ Рё РёСЃС‚РѕСЂРёРё РЅР° РІРёС‚СЂРёРЅР°С… РїСЂРѕРґР°Р¶">
           	<type>list</type>
 			<enabled>true</enabled>
           	<mainScreen>
@@ -1113,7 +1113,7 @@
             <mainScreenStories>
     			<enabled>false</enabled>
     			<limit>15</limit>
-    			<sectionName>Рекомендуем</sectionName>
+    			<sectionName>Р РµРєРѕРјРµРЅРґСѓРµРј</sectionName>
 				<closed>false</closed>
     			<opened>true</opened>
             	<mvpEnabled>false</mvpEnabled>
@@ -1136,7 +1136,7 @@
 					<mainScreenStories>
 						<enabled>false</enabled>
 						<limit>15</limit>
-						<sectionName>Рекомендуем</sectionName>
+						<sectionName>Р РµРєРѕРјРµРЅРґСѓРµРј</sectionName>
 						<closed>false</closed>
 						<opened>true</opened>
                     	<mvpEnabled>false</mvpEnabled>
@@ -1159,7 +1159,7 @@
 					<mainScreenStories>
 						<enabled>false</enabled>
 						<limit>15</limit>
-						<sectionName>Рекомендуем</sectionName>
+						<sectionName>Р РµРєРѕРјРµРЅРґСѓРµРј</sectionName>
 						<closed>false</closed>
 						<opened>true</opened>
                     	<mvpEnabled>false</mvpEnabled>
@@ -1182,7 +1182,7 @@
 					<mainScreenStories>
 						<enabled>false</enabled>
 						<limit>15</limit>
-						<sectionName>Рекомендуем</sectionName>
+						<sectionName>Р РµРєРѕРјРµРЅРґСѓРµРј</sectionName>
 						<closed>false</closed>
 						<opened>true</opened>
                     	<mvpEnabled>false</mvpEnabled>
@@ -1205,7 +1205,7 @@
 					<mainScreenStories>
 						<enabled>false</enabled>
 						<limit>15</limit>
-						<sectionName>Рекомендуем</sectionName>
+						<sectionName>Р РµРєРѕРјРµРЅРґСѓРµРј</sectionName>
 						<closed>false</closed>
 						<opened>true</opened>
                     	<mvpEnabled>false</mvpEnabled>
@@ -1228,7 +1228,7 @@
 					<mainScreenStories>
 						<enabled>false</enabled>
 						<limit>15</limit>
-						<sectionName>Рекомендуем</sectionName>
+						<sectionName>Р РµРєРѕРјРµРЅРґСѓРµРј</sectionName>
 						<closed>false</closed>
 						<opened>true</opened>
                     	<mvpEnabled>false</mvpEnabled>
@@ -1251,7 +1251,7 @@
 					<mainScreenStories>
 						<enabled>true</enabled>
 						<limit>15</limit>
-						<sectionName>Рекомендуем</sectionName>
+						<sectionName>Р РµРєРѕРјРµРЅРґСѓРµРј</sectionName>
 						<closed>false</closed>
 						<opened>true</opened>
                     	<mvpEnabled>true</mvpEnabled>
@@ -1274,7 +1274,7 @@
 					<mainScreenStories>
 						<enabled>true</enabled>
 						<limit>15</limit>
-						<sectionName>Рекомендуем</sectionName>
+						<sectionName>Р РµРєРѕРјРµРЅРґСѓРµРј</sectionName>
 						<closed>false</closed>
 						<opened>true</opened>
                     	<mvpEnabled>true</mvpEnabled>
@@ -1282,7 +1282,7 @@
                 </node>
             </nodes>
         </param>
-		<param name="aim_withCurrency" description="Открытие валютных целей">
+		<param name="aim_withCurrency" description="РћС‚РєСЂС‹С‚РёРµ РІР°Р»СЋС‚РЅС‹С… С†РµР»РµР№">
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
@@ -1426,7 +1426,7 @@
 				</node>
 			</nodes>
 		</param>	
-		<param name="signOnParams" description="Парамтеры стрима SignOn">
+		<param name="signOnParams" description="РџР°СЂР°РјС‚РµСЂС‹ СЃС‚СЂРёРјР° SignOn">
 			<type>list</type>
 				<offerNonAccept>http://www.sberbank.ru/common/img/uploaded/files/pdf/usloviya_perevoda.pdf</offerNonAccept>
     			<nodes>
@@ -1509,7 +1509,7 @@
 					</node>
 				</nodes>
 		</param>
-		<param name="VOIPCallOperator" description="Звонок оператору через интернет">
+		<param name="VOIPCallOperator" description="Р—РІРѕРЅРѕРє РѕРїРµСЂР°С‚РѕСЂСѓ С‡РµСЂРµР· РёРЅС‚РµСЂРЅРµС‚">
 		<type>list</type>
 		<enabled>true</enabled>
 		  <nodes>
@@ -1564,12 +1564,12 @@
 			</node>
 		  </nodes>
 		</param>
-		<param name="iOSAppDesing" description="Парамтеры iOS App Design">
+		<param name="iOSAppDesing" description="РџР°СЂР°РјС‚РµСЂС‹ iOS App Design">
 			<registrationLicenceLink>http://www.sberbank.ru/common/img/uploaded/files/pdf/policy.pdf</registrationLicenceLink>
 			<p2pMaxLimit>1000000</p2pMaxLimit>
 			<accountNumber>true</accountNumber>
 		</param>
-		<param name="PushPlatformID" description="URL серверов Push-платформы">
+		<param name="PushPlatformID" description="URL СЃРµСЂРІРµСЂРѕРІ Push-РїР»Р°С‚С„РѕСЂРјС‹">
 			<type>setting</type>
 			<enabled>true</enabled>
 			<platforms>
@@ -1577,7 +1577,7 @@
 				<platform id="4" url="https://pushserver.sberbank-tele.com"/>
 			</platforms>
 		</param>
-		<param name="brokerage_8_12" description="Брокерское обслуживание">
+		<param name="brokerage_8_12" description="Р‘СЂРѕРєРµСЂСЃРєРѕРµ РѕР±СЃР»СѓР¶РёРІР°РЅРёРµ">
 			<enabled>true</enabled>
 			<replenishAccountEnabled>true</replenishAccountEnabled>
 			<replenishAccountInMarginCallEnabled>true</replenishAccountInMarginCallEnabled>
@@ -1588,7 +1588,7 @@
 					<enabled>true</enabled>
 					<replenishAccountEnabled>true</replenishAccountEnabled>
 					<replenishAccountInMarginCallEnabled>true</replenishAccountInMarginCallEnabled>
-					<replenishAccountSearchString>Пополнение брокерского счета</replenishAccountSearchString>
+					<replenishAccountSearchString>РџРѕРїРѕР»РЅРµРЅРёРµ Р±СЂРѕРєРµСЂСЃРєРѕРіРѕ СЃС‡РµС‚Р°</replenishAccountSearchString>
 					<replenishAccountAgreementFieldCode>field(S226884898113A226884895980)</replenishAccountAgreementFieldCode>
 					<replenishAccountMarketFieldCode>field(S226884898113A226884895336)</replenishAccountMarketFieldCode>
                     <createDocApplicationEnabled>true</createDocApplicationEnabled>
@@ -1598,7 +1598,7 @@
 					<enabled>true</enabled>
 					<replenishAccountEnabled>true</replenishAccountEnabled>
 					<replenishAccountInMarginCallEnabled>true</replenishAccountInMarginCallEnabled>
-					<replenishAccountSearchString>Пополнение брокерского счета</replenishAccountSearchString>
+					<replenishAccountSearchString>РџРѕРїРѕР»РЅРµРЅРёРµ Р±СЂРѕРєРµСЂСЃРєРѕРіРѕ СЃС‡РµС‚Р°</replenishAccountSearchString>
 					<replenishAccountAgreementFieldCode>field(S226884898113A226884895980)</replenishAccountAgreementFieldCode>
 					<replenishAccountMarketFieldCode>field(S226884898113A226884895336)</replenishAccountMarketFieldCode>
                     <createDocApplicationEnabled>true</createDocApplicationEnabled>
@@ -1608,7 +1608,7 @@
 					<enabled>true</enabled>
 					<replenishAccountEnabled>true</replenishAccountEnabled>
 					<replenishAccountInMarginCallEnabled>true</replenishAccountInMarginCallEnabled>
-					<replenishAccountSearchString>Пополнение брокерского счета</replenishAccountSearchString>
+					<replenishAccountSearchString>РџРѕРїРѕР»РЅРµРЅРёРµ Р±СЂРѕРєРµСЂСЃРєРѕРіРѕ СЃС‡РµС‚Р°</replenishAccountSearchString>
 					<replenishAccountAgreementFieldCode>field(S226884898113A226884895980)</replenishAccountAgreementFieldCode>
 					<replenishAccountMarketFieldCode>field(S226884898113A226884895336)</replenishAccountMarketFieldCode>
                     <createDocApplicationEnabled>true</createDocApplicationEnabled>
@@ -1618,7 +1618,7 @@
 					<enabled>true</enabled>
 					<replenishAccountEnabled>true</replenishAccountEnabled>
 					<replenishAccountInMarginCallEnabled>true</replenishAccountInMarginCallEnabled>
-					<replenishAccountSearchString>Пополнение брокерского счета</replenishAccountSearchString>
+					<replenishAccountSearchString>РџРѕРїРѕР»РЅРµРЅРёРµ Р±СЂРѕРєРµСЂСЃРєРѕРіРѕ СЃС‡РµС‚Р°</replenishAccountSearchString>
 					<replenishAccountAgreementFieldCode>field(S226884898113A226884895980)</replenishAccountAgreementFieldCode>
 					<replenishAccountMarketFieldCode>field(S226884898113A226884895336)</replenishAccountMarketFieldCode>
                     <createDocApplicationEnabled>true</createDocApplicationEnabled>
@@ -1628,7 +1628,7 @@
 					<enabled>true</enabled>
 					<replenishAccountEnabled>true</replenishAccountEnabled>
 					<replenishAccountInMarginCallEnabled>true</replenishAccountInMarginCallEnabled>
-					<replenishAccountSearchString>Пополнение брокерского счета</replenishAccountSearchString>
+					<replenishAccountSearchString>РџРѕРїРѕР»РЅРµРЅРёРµ Р±СЂРѕРєРµСЂСЃРєРѕРіРѕ СЃС‡РµС‚Р°</replenishAccountSearchString>
 					<replenishAccountAgreementFieldCode>field(S226884898113A226884895980)</replenishAccountAgreementFieldCode>
 					<replenishAccountMarketFieldCode>field(S226884898113A226884895336)</replenishAccountMarketFieldCode>
                     <createDocApplicationEnabled>true</createDocApplicationEnabled>
@@ -1638,7 +1638,7 @@
 					<enabled>true</enabled>
 					<replenishAccountEnabled>true</replenishAccountEnabled>
 					<replenishAccountInMarginCallEnabled>true</replenishAccountInMarginCallEnabled>
-					<replenishAccountSearchString>Пополнение брокерского счета</replenishAccountSearchString>
+					<replenishAccountSearchString>РџРѕРїРѕР»РЅРµРЅРёРµ Р±СЂРѕРєРµСЂСЃРєРѕРіРѕ СЃС‡РµС‚Р°</replenishAccountSearchString>
 					<replenishAccountAgreementFieldCode>field(S226884898113A226884895980)</replenishAccountAgreementFieldCode>
 					<replenishAccountMarketFieldCode>field(S226884898113A226884895336)</replenishAccountMarketFieldCode>
                     <createDocApplicationEnabled>true</createDocApplicationEnabled>
@@ -1648,7 +1648,7 @@
 					<enabled>true</enabled>
 					<replenishAccountEnabled>true</replenishAccountEnabled>
 					<replenishAccountInMarginCallEnabled>true</replenishAccountInMarginCallEnabled>
-					<replenishAccountSearchString>Пополнение брокерского счета</replenishAccountSearchString>
+					<replenishAccountSearchString>РџРѕРїРѕР»РЅРµРЅРёРµ Р±СЂРѕРєРµСЂСЃРєРѕРіРѕ СЃС‡РµС‚Р°</replenishAccountSearchString>
 					<replenishAccountAgreementFieldCode>field(S226884898113A226884895980)</replenishAccountAgreementFieldCode>
 					<replenishAccountMarketFieldCode>field(S226884898113A226884895336)</replenishAccountMarketFieldCode>
                     <createDocApplicationEnabled>true</createDocApplicationEnabled>
@@ -1667,33 +1667,33 @@
 				</market>
 			</markets>
 		</param>      
-        <param name="paymentTransactionsEducationEnabled" description="раздел Образование в платежах">
+        <param name="paymentTransactionsEducationEnabled" description="СЂР°Р·РґРµР» РћР±СЂР°Р·РѕРІР°РЅРёРµ РІ РїР»Р°С‚РµР¶Р°С…">
             <type>service</type>
             <enabled>true</enabled>
         </param>
-		<param name="creditCardOrder" description="Заказ кредитной карты в ЕФС">
+		<param name="creditCardOrder" description="Р—Р°РєР°Р· РєСЂРµРґРёС‚РЅРѕР№ РєР°СЂС‚С‹ РІ Р•Р¤РЎ">
 			<type>service</type>
 			<enabled>true</enabled>
 		</param>
-        <param name="creditCardOrderV2" description="Заказ кредитной карты в ЕФС, версия 2">
+        <param name="creditCardOrderV2" description="Р—Р°РєР°Р· РєСЂРµРґРёС‚РЅРѕР№ РєР°СЂС‚С‹ РІ Р•Р¤РЎ, РІРµСЂСЃРёСЏ 2">
 			<type>service</type>
    			<enabled>true</enabled>
 		</param>
-		<param name="creditCardUfsHistory" description="Отображение подробностей по заказу кредитной карты ЕФС в ИО">
+		<param name="creditCardUfsHistory" description="РћС‚РѕР±СЂР°Р¶РµРЅРёРµ РїРѕРґСЂРѕР±РЅРѕСЃС‚РµР№ РїРѕ Р·Р°РєР°Р·Сѓ РєСЂРµРґРёС‚РЅРѕР№ РєР°СЂС‚С‹ Р•Р¤РЎ РІ РРћ">
 			<type>service</type>
    			<enabled>true</enabled>
 		</param>
-		<param name="creditCardOrderServices" description="Параметры сервисов функционала заказа кредитной карты в ЕФС">
+		<param name="creditCardOrderServices" description="РџР°СЂР°РјРµС‚СЂС‹ СЃРµСЂРІРёСЃРѕРІ С„СѓРЅРєС†РёРѕРЅР°Р»Р° Р·Р°РєР°Р·Р° РєСЂРµРґРёС‚РЅРѕР№ РєР°СЂС‚С‹ РІ Р•Р¤РЎ">
 			<type>list</type>
 			<enabled>true</enabled>
 			<services>
-				<service name="persDataAgreement" description="Текст виджета условий обработки персональных данных">
+				<service name="persDataAgreement" description="РўРµРєСЃС‚ РІРёРґР¶РµС‚Р° СѓСЃР»РѕРІРёР№ РѕР±СЂР°Р±РѕС‚РєРё РїРµСЂСЃРѕРЅР°Р»СЊРЅС‹С… РґР°РЅРЅС‹С…">
 					<host>https://pfl.efs.sigma.sbrf.ru:443</host>
 					<path>/credit-cards/short-form-capacity/v1/mobile/banking/product/ccard/short-ccard-request/getTextOfAgreementOnTransferInfo</path>
 				</service>
 			</services>
 		</param>
-		<param name="DebitCardAppMP" description="Заказ дебетовых карт">
+		<param name="DebitCardAppMP" description="Р—Р°РєР°Р· РґРµР±РµС‚РѕРІС‹С… РєР°СЂС‚">
 			<type>service</type>
 			<enabled>false</enabled>
 			<enabled_8_7>true</enabled_8_7>
@@ -1771,11 +1771,11 @@
 				</node>
 			</nodes>
 		</param>
-      <param name="DigitalCardAppMP" description="Заказ цифровых карт">
+      <param name="DigitalCardAppMP" description="Р—Р°РєР°Р· С†РёС„СЂРѕРІС‹С… РєР°СЂС‚">
 		<type>service</type>
-        <embossingtitle>Имя владельца</embossingtitle> 
+        <embossingtitle>РРјСЏ РІР»Р°РґРµР»СЊС†Р°</embossingtitle> 
     	<embossingvalue>DIGITAL CARD</embossingvalue> 
-    	<embossingdescription>Это поле может пригодится для оплаты в интернете</embossingdescription>
+    	<embossingdescription>Р­С‚Рѕ РїРѕР»Рµ РјРѕР¶РµС‚ РїСЂРёРіРѕРґРёС‚СЃСЏ РґР»СЏ РѕРїР»Р°С‚С‹ РІ РёРЅС‚РµСЂРЅРµС‚Рµ</embossingdescription>
 		<enabled>true</enabled>
 		<nodes>
 			<node id="node0.online.sberbank.ru">
@@ -1836,7 +1836,7 @@
 			</node>			
 		</nodes>
 		</param>
-        <param name="PersonalDataProfile" description="Редактирование/добавление персональных данных клиента">
+        <param name="PersonalDataProfile" description="Р РµРґР°РєС‚РёСЂРѕРІР°РЅРёРµ/РґРѕР±Р°РІР»РµРЅРёРµ РїРµСЂСЃРѕРЅР°Р»СЊРЅС‹С… РґР°РЅРЅС‹С… РєР»РёРµРЅС‚Р°">
           <type>list</type>
           <enabled>true</enabled>
           <nodes>
@@ -1856,7 +1856,7 @@
              </node>
             </nodes>
         </param>  
-		<param name="CardCVV" description="Определение типов карт для запроса CVV">
+		<param name="CardCVV" description="РћРїСЂРµРґРµР»РµРЅРёРµ С‚РёРїРѕРІ РєР°СЂС‚ РґР»СЏ Р·Р°РїСЂРѕСЃР° CVV">
 			<type>list</type>
 			<enabled>true</enabled>
 			<key>name</key>
@@ -1864,22 +1864,22 @@
 				<cardCvv id="Visa Digital"/>
 			</cardCvvList>
 		</param>
-        <param name="BlockingNotification" description="Карты с выводом нотификации при блокировке">
+        <param name="BlockingNotification" description="РљР°СЂС‚С‹ СЃ РІС‹РІРѕРґРѕРј РЅРѕС‚РёС„РёРєР°С†РёРё РїСЂРё Р±Р»РѕРєРёСЂРѕРІРєРµ">
 			<type>service</type>
 			<cardBlockList>
 				<cardBlock id="Visa Digital"/>
 			</cardBlockList>
 			<notification>
-              <title>Перевести остаток средств перед блокировкой?</title>
-              <description>Рекомендуем перед блокировкой карты перевести остаток средств на другую карту или счет. После блокировки карты получить денежные средства можно будет только в офисе банка при предъявлении документа, удостоверяющего личность</description>
-              <buttontextcontinue>Продолжить</buttontextcontinue>
-              <buttontexttransfer>Перевести</buttontexttransfer>
+              <title>РџРµСЂРµРІРµСЃС‚Рё РѕСЃС‚Р°С‚РѕРє СЃСЂРµРґСЃС‚РІ РїРµСЂРµРґ Р±Р»РѕРєРёСЂРѕРІРєРѕР№?</title>
+              <description>Р РµРєРѕРјРµРЅРґСѓРµРј РїРµСЂРµРґ Р±Р»РѕРєРёСЂРѕРІРєРѕР№ РєР°СЂС‚С‹ РїРµСЂРµРІРµСЃС‚Рё РѕСЃС‚Р°С‚РѕРє СЃСЂРµРґСЃС‚РІ РЅР° РґСЂСѓРіСѓСЋ РєР°СЂС‚Сѓ РёР»Рё СЃС‡РµС‚. РџРѕСЃР»Рµ Р±Р»РѕРєРёСЂРѕРІРєРё РєР°СЂС‚С‹ РїРѕР»СѓС‡РёС‚СЊ РґРµРЅРµР¶РЅС‹Рµ СЃСЂРµРґСЃС‚РІР° РјРѕР¶РЅРѕ Р±СѓРґРµС‚ С‚РѕР»СЊРєРѕ РІ РѕС„РёСЃРµ Р±Р°РЅРєР° РїСЂРё РїСЂРµРґСЉСЏРІР»РµРЅРёРё РґРѕРєСѓРјРµРЅС‚Р°, СѓРґРѕСЃС‚РѕРІРµСЂСЏСЋС‰РµРіРѕ Р»РёС‡РЅРѕСЃС‚СЊ</description>
+              <buttontextcontinue>РџСЂРѕРґРѕР»Р¶РёС‚СЊ</buttontextcontinue>
+              <buttontexttransfer>РџРµСЂРµРІРµСЃС‚Рё</buttontexttransfer>
             </notification>
             <reasonList>
             	<reason id="other"/>
             </reasonList>
         </param>
-		<param name="DDAPermissions" description="Консолидированные включатели функционала Data Driven App">
+		<param name="DDAPermissions" description="РљРѕРЅСЃРѕР»РёРґРёСЂРѕРІР°РЅРЅС‹Рµ РІРєР»СЋС‡Р°С‚РµР»Рё С„СѓРЅРєС†РёРѕРЅР°Р»Р° Data Driven App">
 			<type>list</type>
 			<enabled>true</enabled>
 			<nodes>
@@ -1949,19 +1949,19 @@
 				</node>
 			</nodes>
 		</param>
-		<param name="WelfareProductsMainScreen" description="Продукты благосостояния на главном экране">
+		<param name="WelfareProductsMainScreen" description="РџСЂРѕРґСѓРєС‚С‹ Р±Р»Р°РіРѕСЃРѕСЃС‚РѕСЏРЅРёСЏ РЅР° РіР»Р°РІРЅРѕРј СЌРєСЂР°РЅРµ">
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
-		<param name="WelfareTutorial" description="Туториал на фичу">
+		<param name="WelfareTutorial" description="РўСѓС‚РѕСЂРёР°Р» РЅР° С„РёС‡Сѓ">
 			<type>setting</type>
 			<enabled>false</enabled>
 		</param>
-		<param name="WelfareProductsDetails" description="Карточки продуктов благосостояния (детализация продукта)">
+		<param name="WelfareProductsDetails" description="РљР°СЂС‚РѕС‡РєРё РїСЂРѕРґСѓРєС‚РѕРІ Р±Р»Р°РіРѕСЃРѕСЃС‚РѕСЏРЅРёСЏ (РґРµС‚Р°Р»РёР·Р°С†РёСЏ РїСЂРѕРґСѓРєС‚Р°)">
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
-		<param name="ChatBot" description="Диалог с контактом Сбербанк (@900)">
+		<param name="ChatBot" description="Р”РёР°Р»РѕРі СЃ РєРѕРЅС‚Р°РєС‚РѕРј РЎР±РµСЂР±Р°РЅРє (@900)">
     		<type>list</type>
     		<enabled>true</enabled>
     		<nodes>
@@ -1988,15 +1988,15 @@
 				</node>
     		</nodes>
 		</param>
-		<param name="ExternalLogin" description="Включение аутентификации через СБОЛ на внешних ресурсах">
+		<param name="ExternalLogin" description="Р’РєР»СЋС‡РµРЅРёРµ Р°СѓС‚РµРЅС‚РёС„РёРєР°С†РёРё С‡РµСЂРµР· РЎР‘РћР› РЅР° РІРЅРµС€РЅРёС… СЂРµСЃСѓСЂСЃР°С…">
 			<type>setting</type>
 			<enabled>false</enabled>
 		</param>
-		<param name="ExternalLogin_v2" description="Включение аутентификации через СБОЛ на внешних ресурсах v8.9.1+">
+		<param name="ExternalLogin_v2" description="Р’РєР»СЋС‡РµРЅРёРµ Р°СѓС‚РµРЅС‚РёС„РёРєР°С†РёРё С‡РµСЂРµР· РЎР‘РћР› РЅР° РІРЅРµС€РЅРёС… СЂРµСЃСѓСЂСЃР°С… v8.9.1+">
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
-		<param name="SberbankIDMerchantIcon" description="Иконка потребителя">
+		<param name="SberbankIDMerchantIcon" description="РРєРѕРЅРєР° РїРѕС‚СЂРµР±РёС‚РµР»СЏ">
 			<type>source</type>
 			<link>/SBERBANKID/icons/client_id.png</link>
 		</param>
@@ -2004,7 +2004,7 @@
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>
-      <param name="HistoryOperation" description="Вкладка История. Блоки работают по логическому ИЛИ">
+      <param name="HistoryOperation" description="Р’РєР»Р°РґРєР° РСЃС‚РѕСЂРёСЏ. Р‘Р»РѕРєРё СЂР°Р±РѕС‚Р°СЋС‚ РїРѕ Р»РѕРіРёС‡РµСЃРєРѕРјСѓ РР›Р">
 		<type>list</type>
 		<enabled>true</enabled>
 		<nodes>
@@ -2104,7 +2104,7 @@
             </node>
           </nodes>
           </param>
-        <param name="StatementsAndReferences" description="Справки и выписки c v8.11 и более">
+        <param name="StatementsAndReferences" description="РЎРїСЂР°РІРєРё Рё РІС‹РїРёСЃРєРё c v8.11 Рё Р±РѕР»РµРµ">
             <type>list</type>
             <enabled>true</enabled>
             <nodes>
@@ -2134,13 +2134,13 @@
                 </node>
             </nodes>
         </param>
-        <param name="P2PTransferByPhoneToOtherBank" description="Перевод в другие банки по номеру телефона через УЭК">
+        <param name="P2PTransferByPhoneToOtherBank" description="РџРµСЂРµРІРѕРґ РІ РґСЂСѓРіРёРµ Р±Р°РЅРєРё РїРѕ РЅРѕРјРµСЂСѓ С‚РµР»РµС„РѕРЅР° С‡РµСЂРµР· РЈР­Рљ">
             <type>list</type>
             <enabled>true</enabled>
           	<CustomMessageLimitEnabled>true</CustomMessageLimitEnabled>
-			<CustomMessageLimit>Обратите внимание! Доступный лимит для совершения операции составляет</CustomMessageLimit>
+			<CustomMessageLimit>РћР±СЂР°С‚РёС‚Рµ РІРЅРёРјР°РЅРёРµ! Р”РѕСЃС‚СѓРїРЅС‹Р№ Р»РёРјРёС‚ РґР»СЏ СЃРѕРІРµСЂС€РµРЅРёСЏ РѕРїРµСЂР°С†РёРё СЃРѕСЃС‚Р°РІР»СЏРµС‚</CustomMessageLimit>
             <serviceProviders>
-                <serviceProvider name="Tinkoff" visibleName="Тинькофф Банк">
+                <serviceProvider name="Tinkoff" visibleName="РўРёРЅСЊРєРѕС„С„ Р‘Р°РЅРє">
                     <nodes>
                         <node id="greenfield1.online.sberbank.ru">
                             <targetBilling>284</targetBilling>
@@ -2181,11 +2181,11 @@
                 </serviceProvider>
             </serviceProviders>
         </param>
-      	<param name="TPNDataEnrichment" description="Обогащение данных ТПУ">
+      	<param name="TPNDataEnrichment" description="РћР±РѕРіР°С‰РµРЅРёРµ РґР°РЅРЅС‹С… РўРџРЈ">
         	<type>setting</type>
         	<enabled>true</enabled>
         </param>
-      	<param name="NodeTPNDataEnrichment" description="нода для TPNDataEnrichment">
+      	<param name="NodeTPNDataEnrichment" description="РЅРѕРґР° РґР»СЏ TPNDataEnrichment">
             <type>list</type>
             <nodes>
               	<node id="greenfield1.online.sberbank.ru">
@@ -2208,36 +2208,36 @@
 				</node>
             </nodes>
         </param>
-        <param name="StaticSourceMerchantPics" description="ресурс с контентом">
+        <param name="StaticSourceMerchantPics" description="СЂРµСЃСѓСЂСЃ СЃ РєРѕРЅС‚РµРЅС‚РѕРј">
           	<type>source</type>
         	<link>https://pfm.stat.online.sberbank.ru/PFM/logos/</link>
       	</param>
-      	<param name="TxPushSuggestion" description="разрешение, количество повторений и период в днях для демонстрации WS о ТПУ">            
+      	<param name="TxPushSuggestion" description="СЂР°Р·СЂРµС€РµРЅРёРµ, РєРѕР»РёС‡РµСЃС‚РІРѕ РїРѕРІС‚РѕСЂРµРЅРёР№ Рё РїРµСЂРёРѕРґ РІ РґРЅСЏС… РґР»СЏ РґРµРјРѕРЅСЃС‚СЂР°С†РёРё WS Рѕ РўРџРЈ">            
             <type>setting</type>            
             <enabled>true</enabled>             
             <periodInDays>32</periodInDays>            
             <number>2</number>        
         </param>
-      	<param name="DelayCuteCheck" description="время ожидания ответа с обогащённым контентом">
+      	<param name="DelayCuteCheck" description="РІСЂРµРјСЏ РѕР¶РёРґР°РЅРёСЏ РѕС‚РІРµС‚Р° СЃ РѕР±РѕРіР°С‰С‘РЅРЅС‹Рј РєРѕРЅС‚РµРЅС‚РѕРј">
             <type>setting</type>
             <enabled>true</enabled>
             <delay>30</delay>
         </param>
-		<param name="CarLoan" description="Заявка на автокредит">
+		<param name="CarLoan" description="Р—Р°СЏРІРєР° РЅР° Р°РІС‚РѕРєСЂРµРґРёС‚">
 			<type>setting</type>
 			<enabled>true</enabled>
 		</param>     
-        <param name="CarLoanServices" description="Параметры сервисов функционала">
+        <param name="CarLoanServices" description="РџР°СЂР°РјРµС‚СЂС‹ СЃРµСЂРІРёСЃРѕРІ С„СѓРЅРєС†РёРѕРЅР°Р»Р°">
             <type>list</type>
             <enabled>true</enabled>
             <services>	
-                <service name="PersData" description="Текст виджета условий обработки ПДн">
+                <service name="PersData" description="РўРµРєСЃС‚ РІРёРґР¶РµС‚Р° СѓСЃР»РѕРІРёР№ РѕР±СЂР°Р±РѕС‚РєРё РџР”РЅ">
                 <host>https://pfl.efs.sigma.sbrf.ru/</host>
                 <path>/person-credit-mb/v1/mobile/Banking/Products/Loans/CarLoans/Application/GetAgreement</path>
                 </service>		
             </services>
         </param>
-        <param name="CoreAddress" description="Параметры виджета ввода Адреса по КЛАДР">
+        <param name="CoreAddress" description="РџР°СЂР°РјРµС‚СЂС‹ РІРёРґР¶РµС‚Р° РІРІРѕРґР° РђРґСЂРµСЃР° РїРѕ РљР›РђР”Р ">
             <type>service</type>
             <enabled>true</enabled>
             <services>
@@ -2292,7 +2292,7 @@
 				</node>
             </nodes>
         </param>
-		<param name="MAppDebitCardNegativeBalance" description="Почему минус на дебетовой карте">
+		<param name="MAppDebitCardNegativeBalance" description="РџРѕС‡РµРјСѓ РјРёРЅСѓСЃ РЅР° РґРµР±РµС‚РѕРІРѕР№ РєР°СЂС‚Рµ">
      		<type>service</type>
      		<enabled>true</enabled>
   			<nodes>
@@ -2366,7 +2366,7 @@
                 </level>
             </levels>
         </param>
-		<param name="UiCaseGibddPenaltySearch" description="Уникальный пользовательский сценарий для поиска штрафов по ВУ/СТС">
+		<param name="UiCaseGibddPenaltySearch" description="РЈРЅРёРєР°Р»СЊРЅС‹Р№ РїРѕР»СЊР·РѕРІР°С‚РµР»СЊСЃРєРёР№ СЃС†РµРЅР°СЂРёР№ РґР»СЏ РїРѕРёСЃРєР° С€С‚СЂР°С„РѕРІ РїРѕ Р’РЈ/РЎРўРЎ">
 			<type>list</type>
 			<nodes>
                 <node id="node0.online.sberbank.ru">
@@ -2420,7 +2420,7 @@
                 </node>
 			</nodes>
 		</param>
-		<param name="UiCaseGibddPenaltyPayByUin" description="Уникальный пользовательский сценарий для оплаты штрафов по УИН">
+		<param name="UiCaseGibddPenaltyPayByUin" description="РЈРЅРёРєР°Р»СЊРЅС‹Р№ РїРѕР»СЊР·РѕРІР°С‚РµР»СЊСЃРєРёР№ СЃС†РµРЅР°СЂРёР№ РґР»СЏ РѕРїР»Р°С‚С‹ С€С‚СЂР°С„РѕРІ РїРѕ РЈРРќ">
 			<type>list</type>
             <nodes>
                 <node id="node0.online.sberbank.ru">
@@ -2487,7 +2487,7 @@
 				</node>
 			</nodes>
 		</param>
-        <param name="Loyalty" description="Программа лояльности «Спасибо от Сбербанка»">
+        <param name="Loyalty" description="РџСЂРѕРіСЂР°РјРјР° Р»РѕСЏР»СЊРЅРѕСЃС‚Рё В«РЎРїР°СЃРёР±Рѕ РѕС‚ РЎР±РµСЂР±Р°РЅРєР°В»">
 			<type>list</type>
 			<enabled>true</enabled>
 			<nodes>
@@ -2509,7 +2509,7 @@
                 </node> 
 			</nodes>
          </param>
-      	 <param name="DepositsSliderMaxValue" description="Изменение правой границы бегунка суммовой градации во вкладах">
+      	 <param name="DepositsSliderMaxValue" description="РР·РјРµРЅРµРЅРёРµ РїСЂР°РІРѕР№ РіСЂР°РЅРёС†С‹ Р±РµРіСѓРЅРєР° СЃСѓРјРјРѕРІРѕР№ РіСЂР°РґР°С†РёРё РІРѕ РІРєР»Р°РґР°С…">
        		 <type>list</type>
                <enabled>true</enabled>
                   <nodes>
